@@ -12,6 +12,7 @@ IDE
 		webstorm
 		phpstorm
 		visual studio code
+		visual studio (If it is possible)
 		notpad++
 		atom
 		
