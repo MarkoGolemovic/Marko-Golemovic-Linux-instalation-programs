@@ -1,0 +1,89 @@
+Broswere
+	Google Chrome for developers
+	Firefox Developer Edition
+	Opera developer browser
+	Vivaldi
+	Brave
+	
+IDE
+		
+		IntelliJ IDEA Ultimate
+		PyCharm Profesional
+		webstorm
+		phpstorm
+		visual studio code
+		notpad++
+		atom
+		
+Developer kits
+	JAVA JDK  LAS WHICH UIS SUPORTED
+	Phyton 3.9.0
+	nosql
+	Mysql
+	Mongo db
+	docker
+	Node.js
+	Git
+	Postman
+	FileZilla
+	TeamViewer
+	vim
+	Tilix (Terminal emulatutor)
+	Terminator
+	Neofetch
+	
+	
+OFfice and PDF
+		Foxit Reader
+		Libre Ofiice (I'm not shure if it comes by defult)
+		Calibre
+		
+Codecs
+	VLC media player
+	gimp
+	Inkscape
+	Shutter
+	Peek 
+Comunicatione
+	Zoom
+	whatsapp desktop app (If it is possible)
+	Telegram
+	Rambox
+	Skype
+	
+Network and System menagment
+		Timeshift
+		TestDisk 
+		Unity Teak Tool
+		wireshark
+		Stacer
+        Etcher Image Writer		
+		
+		
+			
+			
+			
+		
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+		
+		
+	
+		
+
+	
+	
+	
+	
+
+
+
+	
