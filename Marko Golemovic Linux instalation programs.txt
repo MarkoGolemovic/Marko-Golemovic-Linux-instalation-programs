@@ -1,90 +1,128 @@
-Broswere
-	Google Chrome for developers
+Approach
+	JSON Scheama for intallaing selecting the packages from urls, and some config if needed, order to be intall for be in compliance of dependencies
+	..... IDEA for solving Script problems: Setting a gitHub repo with all .tar files to download and install from.
+	..... If Ubuntu minimal has package by default just dismiss instalation Ex. Nano.
+	..... Good to have a README.md with instructions and sofwtware included by default in ubuntu minimal.
+		{
+		   'package': 'name',
+		   'ur': 'url',
+			......
+		}
+
+Prerequisite LINUX Base Distro
+	Ubuntu 18.04 Minimal
+
+Broswsers
+	Google Chrome
 	Firefox Developer Edition
-	Opera developer browser
-	Vivaldi
+	Safari
 	Brave
 	
-IDE
-		
-		IntelliJ IDEA Ultimate
-		PyCharm Profesional
-		webstorm
-		phpstorm
-		visual studio code
-		visual studio (If it is possible)
-		notpad++
-		atom
-		
-Developer kits
-	JAVA JDK  LAS WHICH UIS SUPORTED
-	Phyton 3.9.0
-	nosql
-	Mysql
-	Mongo db
-	docker
-	Node.js
-	Git
-	Postman
-	FileZilla
-	TeamViewer
+IDE AND TEXT EDITOR
+	IntelliJ IDEA Ultimate
+	eclipse
+	netbeans
+	PyCharm Profesional
+	webstorm
+	Visual studio code
+	phpstorm
+	Android Studio
+	sublime text
+	nano
 	vim
-	Tilix (Terminal emulatutor)
+	NeoVim
+	
+Programming Languages
+	java JDK 8
+	java JDK 11
+	C#
+	phyton 3.x
+	Ruby
+	C++
+	Rust
+	Go
+	node
+
+Frameworks
+	React
+	Angular
+	Vue
+	Express
+
+Continues Integration
+	Jenkinks
+
+WebServer
+	Apache
+	NginX
+
+Bundlers
+	webpack
+
+Testing tools
+	jest
+	jasmin
+
+Package Managers
+	npm (js)
+	npx
+	nvm
+	yarn (js)
+	pip3 (Python)
+	Laravel (PHP)
+	spring-boot (Java)
+	Rails
+	Conda
+
+Databases and Connectors to db
+	
+	Mysql
+	Oracle SQL Developer
+	Mongo db
+	sqllite3
+	Workbench
+	
+Version Control
+	git
+	
+Virtualization	
+	docker
+	vitualBox
+	
+	
+API
+	Postman
+
+FTP
+	FileZilla
+	
+VPN
+	cisco VPN
+	
+Terminals
 	Terminator
-	Neofetch
 	
+Utilities
+	Neofetch (Linux PC Resources display)
+	Shutter (Screenshot)
+	Timeshift (Undo for deleted files)
+
+Other Software	
+	Foxit Reader (PDF Reader)
 	
-OFfice and PDF
-		Foxit Reader
-		Libre Ofiice (I'm not shure if it comes by defult)
-		Calibre
-		
-Codecs
-	VLC media player
-	gimp
-	Inkscape
-	Shutter
-	Peek 
-Comunicatione
+Multimedia
+	VLC media player (Sound and video)
+	blender (3D display)
+	gimp (Bitmap images)
+	Inkscape (Vector images)
+	
+Comunicationn
 	Zoom
-	whatsapp desktop app (If it is possible)
+	Slack
+	Teamviewer
+	whatsapp
 	Telegram
 	Rambox
-	Skype
 	
 Network and System menagment
-		Timeshift
-		TestDisk 
-		Unity Teak Tool
-		wireshark
-		Stacer
-        Etcher Image Writer		
-		
-		
-			
-			
-			
-		
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-		
-		
-	
-		
-
-	
-	
-	
-	
-
-
-
-	
+	wireshark
