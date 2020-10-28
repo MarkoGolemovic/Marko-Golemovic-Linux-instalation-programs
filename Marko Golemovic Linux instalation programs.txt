@@ -17,6 +17,7 @@ Broswsers
 	Firefox Developer Edition
 	Safari
 	Brave
+	Opera
 	
 IDE AND TEXT EDITOR
 	IntelliJ IDEA Ultimate
