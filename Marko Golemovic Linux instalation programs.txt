@@ -1,6 +1,8 @@
 Approach
-	JSON Scheama for intallaing selecting the packages from urls, and some config if needed, order to be intall for be in compliance of dependencies
-	..... IDEA for solving Script problems: Setting a gitHub repo with all .tar files to download and install from.
+	JSON schema for intalling selected packages from urls or a custom repository of .tar files with packages. 
+	..... and some config file, so package installation will be in compliance with all dependencies. Example. Some packages need other packages
+	..... to be installed first, so this order is important to be considered.
+	..... An idea for solving posible script problems would be: Setting a gitHub repo with all .tar files to download and install from there.
 	..... If Ubuntu minimal has package by default just dismiss instalation Ex. Nano.
 	..... Good to have a README.md with instructions and sofwtware included by default in ubuntu minimal.
 		{
