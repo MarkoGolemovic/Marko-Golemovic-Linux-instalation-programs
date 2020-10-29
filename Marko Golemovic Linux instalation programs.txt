@@ -90,7 +90,6 @@ Virtualization
 	docker
 	vitualBox
 	
-	
 API
 	Postman
 
